@@ -1,0 +1,3 @@
+Building Pipeline
+1.Ceate a github repo and clone it local(Add experiments)
+2.Add scr folder along with all components(run them individually)
